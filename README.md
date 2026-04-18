@@ -29,7 +29,7 @@ A company wants to evaluate whether a new UI design improves conversion rates co
 
 ##  Conversion Analysis
 
-![Conversion Table](images/conversion_table.png)
+![Conversion Table]https://github.com/NuraMishra/AB_Testing/blob/main/conversion_table.png
 
 * Old UI: ~24% conversion
 * New UI: ~27% conversion
