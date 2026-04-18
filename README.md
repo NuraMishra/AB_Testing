@@ -38,7 +38,7 @@ A company wants to evaluate whether a new UI design improves conversion rates co
 
 ##  Visualization
 
-![A/B Test Chart](images/ab_chart.png)
+![A/B Test Chart]https://github.com/NuraMishra/AB_Testing/blob/main/AB_chart.png
 
 The chart clearly shows an increase in conversion rate for the new UI.
 
