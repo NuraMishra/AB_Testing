@@ -46,7 +46,7 @@ The chart clearly shows an increase in conversion rate for the new UI.
 
 ##  Statistical Test
 
-![Z Test Result](images/z_test.png)
+![Z Test Result]https://github.com/NuraMishra/AB_Testing/blob/main/z_test.png
 
 * Z-statistic: -3.65
 * P-value: 0.00025
