@@ -69,7 +69,7 @@ The new UI shows a **statistically significant improvement (p < 0.05)**, confirm
 
 ##  Project Files
 
-* `ab_testing.ipynb`
+* https://github.com/NuraMishra/AB_Testing/blob/main/AB%20Testing.ipynb
 * `AB_testing_dataset.csv`
 * `images/`
 
